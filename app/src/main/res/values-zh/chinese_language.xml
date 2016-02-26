@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">演示APP</string>
+    <string name="hint">输入一条信息</string>
+    <string name="send">发送信息</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_display_message">显示信息屏幕</string>
+</resources>
